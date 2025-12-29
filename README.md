@@ -30,6 +30,7 @@ Contents:
 
 - [ ] [AI and memory wall](https://arxiv.org/pdf/2403.14123): How memory is the main bottleneck for LLM?
 - [ ] [Collective Communication for 100k+ GPUs](https://arxiv.org/abs/2510.20171) by Meta
+- [ ] [Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs](https://arxiv.org/pdf/2506.03296)
 - [ ] [The Landscape of GPU-Centric Communication](https://arxiv.org/pdf/2409.09874v2)
 - [ ] [Pre-training under infinite compute](https://arxiv.org/pdf/2509.14786) by Stanford University
 - [ ] [Give Me BF16 or Give Me Death](https://arxiv.org/pdf/2411.02355) by RedHat and [Give Me FP32 or Give Me Death?](https://arxiv.org/pdf/2506.09501v1)
