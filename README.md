@@ -1,27 +1,26 @@
-# AI-Engineering-Awesome
+# AI-Engineering-Awesome (ML Sys + Hardware/Software co-design)
 *ai/ml resources to master state-of-the-art (SOTA) techniques from engineers and researchers* 🧠💻
 
 ---
 
-Contents:
-* [**End to end free guides to follow**](#end-to-end-free-guides-to-follow)
-* Interesting papers you MUST read
-* Main AI blogs to read regularly (continuous learning)
-* **Deep dive into all core AI concepts** [Learn step-by-step]
-* MAYBE guides you may go through
-* Want to contribute in leading AI open-source projects?
-
----
-
-## End to end free guides to follow
+## Foundational knowledge: End to end free guides to follow
 
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/82fdef14-cc94-4a78-bdd0-fd5e7d38bd0e" /> <img height="50" alt="image" src="https://github.com/user-attachments/assets/b7d30827-1b3d-4bb9-b792-8f47aa98e529" />
 
 MUST:
-- [ ] [CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU): 20 videos on **ML basics** by Andrew Ng, Stanford University (rating 10/10)
 - [ ] [AI Engineering handbook](https://amzn.to/3Wl5Tum): Book by DeepSeek covering **all major concepts in modern AI and AI engineering**; Must for reference (rating 10/10)
+- [ ] [CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU): 20 videos on **ML basics** by Andrew Ng, Stanford University (rating 10/10)
 - [ ] [CSE223](https://hao-ai-lab.github.io/cse234-w25/): **ML Sys** course by Prof Hao Zhang (rating 10/10) by UC San Diego (core engineering LLM serving concepts)
 - [ ] [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=first_steps:_training_on_one_gpu): by HuggingFace on Training LLMs on GPU Clusters (rating 8.5/10)
+
+---
+
+Contents:
+* Core AI engineering papers you MUST read
+* Main AI blogs to read regularly (continuous learning)
+* **Deep dive into all core AI concepts** [Learn step-by-step]
+* MAYBE guides you may go through
+* Want to contribute in leading AI open-source projects?
 
 ---
 
