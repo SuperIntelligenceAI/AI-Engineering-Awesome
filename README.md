@@ -103,6 +103,7 @@ GPU programming concepts:
 
 <img height="20" alt="image" src="https://github.com/user-attachments/assets/ad731cfe-ede3-4e53-b28b-e48221aab6c9" />
 
+- [ ] [Neural Network Quantization guide](https://arxiv.org/pdf/2106.08295) by Qualcomm (cover PTQ, QAT)
 - [ ] [Quantization basics](https://themlsurgeon.substack.com/p/the-machine-learning-surgeons-guide)
 - [ ] [Different data type stimulations](https://www.quant.exposed/)
 - [ ] [INT8 quantization using QAT](https://developer.nvidia.com/blog/achieving-fp32-accuracy-for-int8-inference-using-quantization-aware-training-with-tensorrt/), [LLM quantization with PTQ](https://developer.nvidia.com/blog/optimizing-llms-for-performance-and-accuracy-with-post-training-quantization/), [FP8 datatype](https://developer.nvidia.com/blog/floating-point-8-an-introduction-to-efficient-lower-precision-ai-training/), [AWQ](https://hamzaelshafie.bearblog.dev/awq-activation-aware-weight-quantisation/)
