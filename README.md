@@ -39,7 +39,7 @@ Contents:
 
 **Algorithms for Kernel development**:
 - [ ] [Online normalizer calculation for softmax](https://arxiv.org/pdf/1805.02867)
-- [ ] Flash Attention ([paper1](https://arxiv.org/abs/2205.14135), paper for [v2](https://arxiv.org/abs/2307.08691), paper for [v3](https://tridao.me/blog/2024/flash3/)
+- [ ] Flash Attention [paper1](https://arxiv.org/abs/2205.14135), paper for [v2](https://arxiv.org/abs/2307.08691), paper for [v3](https://tridao.me/blog/2024/flash3/)
 
 **Training engineering**
 - [ ] [Pre-training under infinite compute](https://arxiv.org/pdf/2509.14786) by Stanford University
