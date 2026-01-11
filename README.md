@@ -28,21 +28,26 @@ Contents:
 
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/b0bcbfd3-5e89-4133-89a3-55e858fa82a5" /> <img height="50" alt="image" src="https://github.com/user-attachments/assets/50fbc127-b4b2-4bb9-8f02-cc72ad126da0" />
 
-Kernel level and memory system engineering
+**Kernel level and memory system engineering**
 - [ ] [AI and memory wall](https://arxiv.org/pdf/2403.14123): How memory is the main bottleneck for LLM?
 - [ ] [Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs](https://arxiv.org/pdf/2512.18134) by NVIDIA and Stanford University
 - [ ] [Collective Communication for 100k+ GPUs](https://arxiv.org/abs/2510.20171) by Meta
 - [ ] [Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators](https://arxiv.org/pdf/2512.23236) by Meta
 - [ ] [Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs](https://arxiv.org/pdf/2506.03296)
 - [ ] [The Landscape of GPU-Centric Communication](https://arxiv.org/pdf/2409.09874v2)
+- [ ] [Use microbenchmarking and instruction level analysis to analyze GPU architecture](https://arxiv.org/pdf/2208.11174)
 
-Training engineering
+**Algorithms for Kernel development**:
+- [ ] [Online normalizer calculation for softmax](https://arxiv.org/pdf/1805.02867)
+- [ ] Flash Attention ([paper1](https://arxiv.org/abs/2205.14135), paper for [v2](https://arxiv.org/abs/2307.08691), paper for [v3](https://tridao.me/blog/2024/flash3/)
+
+**Training engineering**
 - [ ] [Pre-training under infinite compute](https://arxiv.org/pdf/2509.14786) by Stanford University
 - [ ] [Small Batch Size Training for Language Models](https://arxiv.org/pdf/2507.07101)
 - [ ] [End-to-End Test-Time Training for Long Context](https://test-time-training.github.io/e2e.pdf) by NVIDIA and others
 - [ ] [Give Me BF16 or Give Me Death](https://arxiv.org/pdf/2411.02355) by RedHat and [Give Me FP32 or Give Me Death?](https://arxiv.org/pdf/2506.09501v1)
 
-Others:
+**Others**:
 - [ ] [LLMs don't just memorize, they build a geometric map that helps them reason](https://arxiv.org/pdf/2510.26745) by Google
 - [ ] [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943) by MIT
 ---
