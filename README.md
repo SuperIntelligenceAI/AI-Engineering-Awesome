@@ -5,7 +5,7 @@
 
 ## Foundational knowledge: End to end free guides to follow
 
-<img height="50" alt="image" src="https://github.com/user-attachments/assets/82fdef14-cc94-4a78-bdd0-fd5e7d38bd0e" /> <img height="50" alt="image" src="https://github.com/user-attachments/assets/b7d30827-1b3d-4bb9-b792-8f47aa98e529" />
+<img height="50" alt="image" src="https://github.com/user-attachments/assets/02b143a2-2992-4baf-b9d6-1f023eff17d4" /> <img height="50" alt="image" src="https://github.com/user-attachments/assets/d6f598c5-fd89-4a39-a90a-a94ac6093d03" /> <img height="50" alt="image" src="https://github.com/user-attachments/assets/812f576c-aedd-451d-85ee-b588bbf45c21" /> <img height="50" alt="image" src="https://github.com/user-attachments/assets/82fdef14-cc94-4a78-bdd0-fd5e7d38bd0e" /> <img height="50" alt="image" src="https://github.com/user-attachments/assets/b7d30827-1b3d-4bb9-b792-8f47aa98e529" />
 
 MUST:
 - [ ] [AI Engineering handbook](https://amzn.to/3Wl5Tum): Book by DeepSeek covering **all major concepts in modern AI and AI engineering**; Must for reference (rating 10/10)
@@ -76,11 +76,14 @@ _Listed only high-quality resources. No need to read 100s of posts to get an ide
 - [ ] [Understanding GPU architecture with MatMul](https://www.aleksagordic.com/blog/matmul), [intuition about GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 - [ ] [GPU Shared memory banks / microbenchmarks](https://feldmann.nyc/blog/smem-microbenchmarks)
 GPU programming concepts:
-- [ ] [CUDA programming model](https://developer.nvidia.com/blog/cuda-refresher-cuda-programming-model/), [GPU memory management](https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/): Mark Harris's GTC Talk on Coalesced Memory Access, [Prefix Sum/ Scan in GPU](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
-- [ ] [Programming Massively Parallel Processors](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4) series on YT
 
 * Performance
 - [ ] [Performance metrics](https://github.com/NVIDIA/nccl-tests/blob/master/doc/PERFORMANCE.md#performance-reported-by-nccl-tests) by nccl tests, [Profiling guide](https://docs.nvidia.com/nsight-compute/ProfilingGuide/index.html#profiling-guide) by Nsight, [Understanding DL performance](https://horace.io/brrr_intro.html)
+
+* **Kernel development**
+- [ ] [Blackwell Tensor Core MMA layouts](https://vjkrish.com/2026/01/19/Mma_Layouts.html)
+- [ ] [Programming Massively Parallel Processors](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4) series on YT
+- [ ] [CUDA programming model](https://developer.nvidia.com/blog/cuda-refresher-cuda-programming-model/), [GPU memory management](https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/): Mark Harris's GTC Talk on Coalesced Memory Access, [Prefix Sum/ Scan in GPU](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
 
 * **Transformer**
 - [ ] [CME 295](https://cme295.stanford.edu/syllabus/): Basics of Transformer and LLM course by Stanford University
