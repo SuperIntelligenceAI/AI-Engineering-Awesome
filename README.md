@@ -28,6 +28,8 @@ Contents:
 
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/b0bcbfd3-5e89-4133-89a3-55e858fa82a5" /> <img height="50" alt="image" src="https://github.com/user-attachments/assets/50fbc127-b4b2-4bb9-8f02-cc72ad126da0" />
 
+<details>
+
 **Kernel level and memory system engineering**
 - [ ] [AI and memory wall](https://arxiv.org/pdf/2403.14123): How memory is the main bottleneck for LLM?
 - [ ] [Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs](https://arxiv.org/pdf/2512.18134) by NVIDIA and Stanford University
@@ -50,9 +52,14 @@ Contents:
 **Others**:
 - [ ] [LLMs don't just memorize, they build a geometric map that helps them reason](https://arxiv.org/pdf/2510.26745) by Google
 - [ ] [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943) by MIT
+
+</details>
+
 ---
 
 ## Main AI blogs to read regularly (continuous learning)
+
+<details>
 
 - [ ] [NVIDIA Developer Blog](https://developer.nvidia.com/blog/): Deep dive into multiple AI topics.
 - [ ] [TensorRT LLM tech blogs](https://github.com/NVIDIA/TensorRT-LLM/tree/main/docs/source/blogs/tech_blog): Deep dive into technical techniques/optimizations in one of the leading LLM inference library. (13 posts as of now)
@@ -66,10 +73,14 @@ YouTube channels to follow regularly:
 - [ ] [PyTorch channel](https://www.youtube.com/@PyTorch/videos): videos of various PyTorch events covering keynotes of technical topics like torch.compile.
 - [ ] [AI engineer channel](https://www.youtube.com/@aiDotEngineer/videos)
 
+</details>
+
 ---
 
 ## Deep dive into AI concepts [Learn step-by-step]
 _Listed only high-quality resources. No need to read 100s of posts to get an idea. Just one post should be enough._
+
+<details>
 
 * **GPU architecture**
 <br> Current SOTA AI/LLM workloads are possible only because of GPUs. Understanding GPU architecture gives you an engineering edge.
@@ -164,6 +175,7 @@ Practical:
 - [ ] [FlexAttention using CuTE DSL](https://research.colfax-intl.com/a-users-guide-to-flexattention-in-flash-attention-cute-dsl/)
 - [ ] [MatMul using WGMMA](https://research.colfax-intl.com/cutlass-tutorial-wgmma-hopper/), [GEMM with pipelining in CUTLASS](https://research.colfax-intl.com/cutlass-tutorial-design-of-a-gemm-kernel/)
 
+</details>
 
 ## MAYBE guides you may go through
 
