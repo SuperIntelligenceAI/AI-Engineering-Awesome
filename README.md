@@ -91,6 +91,7 @@ GPU programming concepts:
   - [ ] [P/D disaggregation](https://hao-ai-lab.github.io/blogs/distserve-retro/), [DistServe P/D disaggregation paper](https://arxiv.org/pdf/2401.09670)
   - [ ] [Power aware dynamic reallocation for Inference](https://www.arxiv.org/pdf/2601.12241) by AMD
   - [ ] [KVCache-centric disaggregated architecture](https://arxiv.org/pdf/2407.00079) by MooncakeAI
+  - [ ] [Disaggregated inference in heterogeneous environment](https://arxiv.org/pdf/2502.07903)
 - [ ] [OverFill: Two-Stage Models for Efficient Language Model Decoding](https://arxiv.org/pdf/2508.08446) by Cornell University
 
 * **Transformer**
