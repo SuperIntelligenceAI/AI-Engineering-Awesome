@@ -77,13 +77,21 @@ _Listed only high-quality resources. No need to read 100s of posts to get an ide
 - [ ] [GPU Shared memory banks / microbenchmarks](https://feldmann.nyc/blog/smem-microbenchmarks)
 GPU programming concepts:
 
-* Performance
+* **Performance**
 - [ ] [Performance metrics](https://github.com/NVIDIA/nccl-tests/blob/master/doc/PERFORMANCE.md#performance-reported-by-nccl-tests) by nccl tests, [Profiling guide](https://docs.nvidia.com/nsight-compute/ProfilingGuide/index.html#profiling-guide) by Nsight, [Understanding DL performance](https://horace.io/brrr_intro.html)
 
 * **Kernel development**
 - [ ] [Blackwell Tensor Core MMA layouts](https://vjkrish.com/2026/01/19/Mma_Layouts.html)
 - [ ] [Programming Massively Parallel Processors](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4) series on YT
 - [ ] [CUDA programming model](https://developer.nvidia.com/blog/cuda-refresher-cuda-programming-model/), [GPU memory management](https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/): Mark Harris's GTC Talk on Coalesced Memory Access, [Prefix Sum/ Scan in GPU](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
+- [ ] [GPU Triggered Networking for Intra-Kernel Communications](https://www.mlebeane.com/files/papers/sc_2017.pdf) by AMD
+
+* **ML Sys**
+  * Disaggregated Scheduling / Routing
+  - [ ] [P/D disaggregation](https://hao-ai-lab.github.io/blogs/distserve-retro/), [DistServe P/D disaggregation paper](https://arxiv.org/pdf/2401.09670)
+  - [ ] [Power aware dynamic reallocation for Inference](https://www.arxiv.org/pdf/2601.12241) by AMD
+  - [ ] [KVCache-centric disaggregated architecture](https://arxiv.org/pdf/2407.00079) by MooncakeAI
+- [ ] [OverFill: Two-Stage Models for Efficient Language Model Decoding](https://arxiv.org/pdf/2508.08446) by Cornell University
 
 * **Transformer**
 - [ ] [CME 295](https://cme295.stanford.edu/syllabus/): Basics of Transformer and LLM course by Stanford University
@@ -138,12 +146,6 @@ GPU programming concepts:
 - [ ] [MoE using Wide Expert Parallelism EP](https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems/)
 
 <img height="100" alt="image" src="https://github.com/user-attachments/assets/68297949-8f6f-41e3-aa43-a9cae8c52102" />
-
-* Scheduling / Routing
-
-- [ ] [P/D disaggregation](https://hao-ai-lab.github.io/blogs/distserve-retro/), [DistServe P/D disaggregation paper](https://arxiv.org/pdf/2401.09670)
-- [ ] [KVCache-centric disaggregated architecture](https://arxiv.org/pdf/2407.00079) by MooncakeAI
-- [ ] [OverFill: Two-Stage Models for Efficient Language Model Decoding](https://arxiv.org/pdf/2508.08446) by Cornell University
 
 * Software tools AI
 - [ ] [vLLM arch](https://www.aleksagordic.com/blog/vllm): architecture of the leading LLM serving engine.
